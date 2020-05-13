@@ -1,25 +1,17 @@
-# README
+# Cy-log
+Cy-log is a web based application that allows a user to keep a scientific journal filled with entries for each day.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Approach Taken
+I used a React front-end that can perform all CRUD actions on a Rails api back-end.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# sci_api
+# Technology Used
+- React
+- node.js
+- html
+- css
+- ruby
+- rails
+ 
+# Links
+Application: https://sci-port.herokuapp.com/
+github: https://github.com/mholmberg13/sci-log
